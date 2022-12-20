@@ -1,2 +1,0 @@
-# gitassignment
-tekstiä
